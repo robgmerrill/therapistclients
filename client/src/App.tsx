@@ -21,6 +21,7 @@ export default function App() {
 
   return (
     <>
+      <h1>It worked!</h1>
       <div>
         <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
           <img src={viteLogo} className="logo" alt="Vite logo" />
